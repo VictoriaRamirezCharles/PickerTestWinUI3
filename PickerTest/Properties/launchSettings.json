@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PickerTest (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "PickerTest (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
